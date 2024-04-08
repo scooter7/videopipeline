@@ -1,0 +1,7 @@
+streamlit
+Pillow
+moviepy
+requests
+flickrapi
+pandas
+opencv-python-headless
