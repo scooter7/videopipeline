@@ -207,10 +207,10 @@ def images_function():
 tab1, tab2, tab3 = st.tabs(["Image Search", "Images To Source Video", "Personalize Videos"])
 
 with tab1:
-    pv_function()
+    images_function()
 
 with tab2:
     imagetovideo_function()
 
 with tab3:
-    images_function()
+    pv_function()
