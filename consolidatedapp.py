@@ -204,7 +204,7 @@ def images_function():
             st.write("No Wikimedia Commons images found.")
 
 # Creating Streamlit tabs for each function
-tab1, tab2, tab3 = st.tabs(["PV", "ImageToVideo", "Images"])
+tab1, tab2, tab3 = st.tabs(["Image Search", "Images To Source Video", "Personalize Videos"])
 
 with tab1:
     pv_function()
